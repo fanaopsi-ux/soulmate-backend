@@ -39,6 +39,7 @@ pydantic-settings==2.3.4
 
 # --- Utilities ---
 python-dateutil==2.9.0
+slowapi==0.1.9
 
 # --- RAG Pipeline ---
 langchain>=0.2.0
