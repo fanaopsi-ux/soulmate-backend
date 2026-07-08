@@ -56,3 +56,4 @@ secure>=0.3.0
 
 # --- Testing (dev) ---
 pytest==8.2.2
+slowapi==0.1.9
